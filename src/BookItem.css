@@ -1,0 +1,24 @@
+.book-icon {
+    max-width: 200px;
+    max-height: 250px;
+
+}
+
+.mainHead {
+    text-align: center;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    display: flex;
+    margin-bottom: 80px;
+}
+
+.book-info {
+    width: 100%;
+    text-align: center;
+}
